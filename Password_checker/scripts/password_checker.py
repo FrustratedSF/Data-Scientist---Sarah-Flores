@@ -1,4 +1,4 @@
-# This program checks whether the password written is weak, medium or strong
+# This Python program checks the strength of a password based on its length whether the password written is weak, medium or strong.
 
 
 while True:
