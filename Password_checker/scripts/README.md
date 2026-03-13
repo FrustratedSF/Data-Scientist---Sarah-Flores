@@ -8,7 +8,7 @@
 - Continuously asks the user for a password until a strong one is entered.
 
 
-##Technologies Used:
+## Technologies Used:
 - Jupyter Notebook
 - Python 3
 
@@ -19,3 +19,9 @@
 - Variables
 - String length using len()
 - User input with input()
+
+## Future Improvement
+- Check for number
+- Check for uppercase/lowercase
+- Check for special characters
+- Password strength score
