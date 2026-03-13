@@ -1,1 +1,10 @@
+# This program checks whether the password written is weak, medium or strong
 
+
+while True:
+  password = input('Enter your password: ')
+  length = len(password)
+
+if length < 5:
+  print('Weak password! Try again ')
+  
